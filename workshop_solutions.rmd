@@ -1,5 +1,21 @@
 ---
-title: "workshop_solutions.rmd"
-output: html_document
+title: "Week 6 Quiz"
+author: "Sumer Kelly-Stout and U6985079"
+date: "01/09/2023"
+output:  
+    html_document:
+        toc: true
+        toc_depth: 4
+        theme: cosmo
+        number_sections: false
+        toc_float: true
+        highlight: pygments
+        fig_width: 8
+        fig_height: 4
 ---
 
+# Bonus section
+
+## Loading the data
+
+## An interesting plot
