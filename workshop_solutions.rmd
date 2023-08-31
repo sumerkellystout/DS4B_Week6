@@ -28,7 +28,7 @@ data
 
 ```{r}
 library(ggplot2)
-ggplot(data = data) + geom_point(mapping = aes(x = Vitellogenic, y = weight))
+ggplot(data = data) + geom_point(mapping = aes(x = TempC, y = weight))
 ```
 
 
