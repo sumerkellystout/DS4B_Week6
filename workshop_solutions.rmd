@@ -18,4 +18,21 @@ output:
 
 ## Loading the data
 
+```{r}
+install.packages("tidyverse")
+library(tidyverse)
+data
+```
+
 ## An interesting plot
+
+```{r}
+library(ggplot2)
+ggplot(data = data) + geom_point(mapping = aes(y=))
+```
+
+
+
+
+
+
